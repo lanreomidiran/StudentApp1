@@ -1,12 +1,185 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|c:\\users\\hp\\onedrive\\desktop\\studentapp1\\studentapp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|solutionrelative:studentapp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|c:\\users\\hp\\onedrive\\desktop\\studentapp1\\studentapp1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|solutionrelative:studentapp1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|c:\\users\\hp\\onedrive\\desktop\\studentapp1\\studentapp1\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|solutionrelative:studentapp1\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|c:\\users\\hp\\onedrive\\desktop\\studentapp1\\studentapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|solutionrelative:studentapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|c:\\users\\hp\\onedrive\\desktop\\studentapp1\\studentapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|solutionrelative:studentapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|c:\\users\\hp\\onedrive\\desktop\\studentapp1\\studentapp1\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|solutionrelative:studentapp1\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|c:\\users\\hp\\onedrive\\desktop\\studentapp1\\studentapp1\\models\\addstudentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|solutionrelative:studentapp1\\models\\addstudentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|c:\\users\\hp\\onedrive\\desktop\\studentapp1\\studentapp1\\migrations\\20260224115913_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|solutionrelative:studentapp1\\migrations\\20260224115913_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|c:\\users\\hp\\onedrive\\desktop\\studentapp1\\studentapp1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|solutionrelative:studentapp1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|c:\\users\\hp\\onedrive\\desktop\\studentapp1\\studentapp1\\studentapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4443A783-02C4-2828-0B96-9EDA943C86A1}|StudentApp1\\StudentApp1.csproj|solutionrelative:studentapp1\\studentapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentApp1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentApp1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T09:20:21.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\Views\\Students\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentApp1\\Views\\Students\\List.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\Views\\Students\\List.cshtml*",
+              "RelativeToolTip": "StudentApp1\\Views\\Students\\List.cshtml*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T07:26:36.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentApp1\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\Controllers\\StudentsController.cs*",
+              "RelativeToolTip": "StudentApp1\\Controllers\\StudentsController.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T12:08:54.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\Program.cs",
+              "RelativeDocumentMoniker": "StudentApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\Program.cs",
+              "RelativeToolTip": "StudentApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T11:40:10.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentApp1\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\appsettings.json",
+              "RelativeToolTip": "StudentApp1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-24T11:45:49.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddStudentView.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\Models\\AddStudentView.cs",
+              "RelativeDocumentMoniker": "StudentApp1\\Models\\AddStudentView.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\Models\\AddStudentView.cs",
+              "RelativeToolTip": "StudentApp1\\Models\\AddStudentView.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T13:37:00.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\Views\\Students\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentApp1\\Views\\Students\\Add.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\Views\\Students\\Add.cshtml",
+              "RelativeToolTip": "StudentApp1\\Views\\Students\\Add.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-24T12:12:41.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260224115913_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\Migrations\\20260224115913_Initial Migration.cs",
+              "RelativeDocumentMoniker": "StudentApp1\\Migrations\\20260224115913_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\Migrations\\20260224115913_Initial Migration.cs",
+              "RelativeToolTip": "StudentApp1\\Migrations\\20260224115913_Initial Migration.cs",
+              "ViewState": "AgIAAA4AAAAAAAAABAAAwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T11:59:14.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentApp1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentApp1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T11:12:20.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\StudentApp1.csproj",
+              "RelativeDocumentMoniker": "StudentApp1\\StudentApp1.csproj",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\StudentApp1\\StudentApp1\\StudentApp1.csproj",
+              "RelativeToolTip": "StudentApp1\\StudentApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-24T11:11:21.536Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
